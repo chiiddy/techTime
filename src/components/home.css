@@ -1,0 +1,360 @@
+.errt{
+    background-color: #004db3;
+    padding-bottom: 0.9rem;
+    padding-top: 0.5rem;
+    position: fixed;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    list-style: none;
+}
+.tech {
+    margin-right: 46rem;
+}
+
+.enrol {
+    background-color: white;
+    padding: 0.8rem;
+    border-radius: 0.3rem;
+}
+/* .half-background {
+    background-color: #004db3;
+    padding-top: 1rem;
+} */
+.skills {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    line-height: 20px;
+}
+.links {
+    display: flex;
+    align-items: center;
+    background-color: #ccdbf0;
+    list-style: none;
+    gap: 4rem;
+    justify-content: center;
+    padding-bottom: 3rem;
+    padding-top: 2.8rem;
+}
+
+.first-body {
+    display: flex;
+    gap: 23.09rem;
+} 
+
+.second {
+    display: flex;
+    background-color: #004db3;
+    color: white;
+}
+.third-body {
+    display: flex;
+    background-color: #f8f9fc;
+}
+.mentors {
+    display: flex;
+    list-style: none;
+}
+.oneonone {
+    display:flex;
+    list-style: none;
+}
+.heros {
+    display:flex;
+    background-color: #f8f9fc;
+}
+.browse {
+    text-align: center;
+}
+.categories {
+    display:flex;
+    gap: 2rem;
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 34rem;
+}
+.all {
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+}
+.twenty-three {
+    display:flex;
+    list-style: none;
+    gap: 2rem;
+}
+.leonardo {
+    display:flex;
+    list-style: none;
+    gap: 2rem;
+}
+.twenty-two {
+    display:flex;
+    list-style: none;
+    gap: 2rem;
+}
+.jeffery {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+.forty-five {
+    display:flex;
+    list-style: none;
+    gap: 2rem;
+}
+.claret {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+.whole {
+    display: flex;
+    gap: 3rem;
+    margin-left: 4rem;
+}
+.audio {
+    display: flex;
+    list-style: none;
+    gap: 5rem;
+}
+.recorded {
+    display: flex;
+    list-style: none;
+    gap: 3.7rem;
+}
+.thirty {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+.jessica {
+    display:flex;
+    list-style: none;
+    gap: 2rem;
+}
+.thirty-three {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+.ten {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+.adam {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+.coding {
+    display:flex;
+    gap: 3rem;
+    margin-left: 4rem;
+}
+.writings {
+    display:flex;
+    font-size:small;
+    gap: 2rem;
+    margin-left: 2.8rem;    
+}
+.explore {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.courses {
+    background-color: #004db3;
+    padding: 0.7rem 2rem 0.7rem 2rem;
+    border-radius: 0.4rem;
+    color: white;
+}
+.saying {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.community {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #004db3;
+    padding-bottom: 2rem;
+    padding-top: 3rem;
+}
+.bella {
+    background-color: #FFFFFF;
+}
+.samuel {
+    background-color: #FFFFFF;
+    list-style: none;
+}
+.Bryce {
+    background-color: #FFFFFF;
+}
+.join {
+    padding-left: 2rem;
+    border-radius: 0.4rem;
+    background-color: white;
+    color:#004db3;
+    padding-right: 2rem;
+    
+}
+.community > p {
+    color: white;
+}
+.community > h1 {
+    color: white;
+}
+.question {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.trial {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.free {
+    display: flex;
+    gap: 32rem;
+}
+.plan {
+    display: flex;
+    gap: 32.5rem;
+}
+.time {
+    display: flex; 
+    gap: 33.39rem;
+}
+.after {
+    display: flex; 
+    gap: 27.5rem; 
+}
+.reach {
+    display: flex; 
+    gap: 30.2rem;
+}
+.job {
+    display:flex;
+    gap: 25.61rem;
+}
+.socials {
+   display: flex;
+   gap: 2rem;
+}
+.useful {
+    list-style: none;
+}
+.help {
+    list-style: none;
+}
+/* .center {
+    margin-right: 5rem;
+} */
+.nft {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    background-color: #2a2a2b;
+}
+.button {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.6rem;
+    padding-bottom: 0.681rem;
+    background-color: #054fb3;
+    color: white;
+}
+.footer {
+    display:flex;
+    gap: 11rem;
+    background-color: #000f24;
+    padding-top: 8rem;
+    padding-bottom: 10rem;
+    color:white;
+}
+.started {
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    padding-right: 0.3;
+    padding-left: 0.8rem;
+    border-radius: 0.4rem;
+}
+.enrolled {
+    padding-top: 1.2rem;
+    padding-bottom: 0.7rem;
+    padding-right: 1.6rem;
+    padding-left: 1.5rem;
+    border-radius: 0.4rem;
+}
+.pages {
+    margin-left: 12rem;
+}
+.baby {
+    margin-left: 12rem;
+}
+.view {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.2rem;
+    padding-right: 2rem;
+    background-color: #004db3;
+    color: white;
+    border-radius: 0.2rem;
+}
+.experience {
+    background-color: #fff;
+    gap: 1rem;
+}
+.design {
+    background-color: #d2cfd9;
+    color:#004db3;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+    border-radius: 0.7rem;
+}
+.market {
+    background-color: #d2cfd9;
+    color:#004db3;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+    border-radius: 0.7rem; 
+}
+.develop {
+    background-color: #d2cfd9;
+    color:#004db3;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+    border-radius: 0.7rem; 
+}
+.ment {
+    background-color: #d2cfd9;
+    color:#004db3;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+    border-radius: 0.7rem; 
+}
+.mark {
+    background-color: #d2cfd9;
+    color:#004db3;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+    border-radius: 0.7rem; 
+}
+.intro {
+    background-color: #d2cfd9;
+    color:#004db3;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+    border-radius: 0.7rem;
+}
